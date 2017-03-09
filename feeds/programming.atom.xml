@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Percipio - Programming</title><link href="https://chriscz.github.io/" rel="alternate"></link><link href="https://chriscz.github.io/feeds/programming.atom.xml" rel="self"></link><id>https://chriscz.github.io/</id><updated>2016-07-14T13:42:00+02:00</updated><entry><title>Relationship between Object Properties and Maps</title><link href="https://chriscz.github.io/relationship-between-object-properties-and-maps.html" rel="alternate"></link><published>2016-07-14T13:42:00+02:00</published><updated>2016-07-14T13:42:00+02:00</updated><author><name>Chris</name></author><id>tag:chriscz.github.io,2016-07-14:/relationship-between-object-properties-and-maps.html</id><summary type="html">&lt;p&gt;While I was programming on my master's project today I realized that a lot of my code had the following structure&lt;/p&gt;
+&lt;table class="highlighttable"&gt;&lt;tr&gt;&lt;td class="linenos"&gt;&lt;div class="linenodiv"&gt;&lt;pre&gt;1
+2
+3
+4
+5&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;td class="code"&gt;&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="n"&gt;cups&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="c1"&gt;# some list of cups&lt;/span&gt;
+&lt;span class="n"&gt;cup_colour_map&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="p"&gt;{}&lt;/span&gt;
+&lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;cup&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;cups&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+    &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="n"&gt;can_determine_colour&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;cup&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+        &lt;span class="n"&gt;cup_colour_map&lt;/span&gt;&lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="n"&gt;cup&lt;/span&gt;&lt;span class="p"&gt;]&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;determine_cup_colour&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;cup&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+
+&lt;p&gt;This, I believe is the most general …&lt;/p&gt;</summary><content type="html">&lt;p&gt;While I was programming on my master's project today I realized that a lot of my code had the following structure&lt;/p&gt;
+&lt;table class="highlighttable"&gt;&lt;tr&gt;&lt;td class="linenos"&gt;&lt;div class="linenodiv"&gt;&lt;pre&gt;1
+2
+3
+4
+5&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;td class="code"&gt;&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="n"&gt;cups&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="c1"&gt;# some list of cups&lt;/span&gt;
+&lt;span class="n"&gt;cup_colour_map&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="p"&gt;{}&lt;/span&gt;
+&lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;cup&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;cups&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+    &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="n"&gt;can_determine_colour&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;cup&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+        &lt;span class="n"&gt;cup_colour_map&lt;/span&gt;&lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="n"&gt;cup&lt;/span&gt;&lt;span class="p"&gt;]&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;determine_cup_colour&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;cup&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+
+&lt;p&gt;This, I believe is the most general case. Alternatively you don't check the
+predicate and just store the value straight to the map. Note also here that
+my Cup object is using it's default implementations of equals and hashcode.&lt;/p&gt;
+&lt;p&gt;What is interesting here is that I often discover additional properties
+which I would like to associate with cups, but then instead of introducing
+them into the Cup class, I use the mapping pattern. This quite reminds me
+of some AI LISP code I saw a while ago, in these functional languages it
+seems that the norm is to have structures that define some cardinal
+properties that make each instance unique, and from thereon you can add
+additional properties by creating a table for each property.&lt;/p&gt;
+&lt;p&gt;I doubt that this approach offers any benefit to simply introducing the
+property into the applicable class, but it was something interesting that I
+noted.&lt;/p&gt;</content><category term="python"></category><category term="musing"></category></entry></feed>
