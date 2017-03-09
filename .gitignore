@@ -1,0 +1,5 @@
+*.pyc
+pelican.pid
+srv.pid
+/venv/
+output/*
