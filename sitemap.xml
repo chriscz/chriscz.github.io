@@ -5,29 +5,43 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://chriscz.github.io/</loc>
-<lastmod>2017-03-09T23:50:29-00:00</lastmod>
+<lastmod>2017-04-02T16:06:21-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://chriscz.github.io/archives.html</loc>
-<lastmod>2017-03-09T23:50:29-00:00</lastmod>
+<lastmod>2017-04-02T16:06:21-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://chriscz.github.io/tags.html</loc>
-<lastmod>2017-03-09T23:50:29-00:00</lastmod>
+<lastmod>2017-04-02T16:06:21-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://chriscz.github.io/categories.html</loc>
-<lastmod>2017-03-09T23:50:29-00:00</lastmod>
+<lastmod>2017-04-02T16:06:21-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://chriscz.github.io/simple-hummus.html</loc>
+<lastmod>2017-04-02T15:57:00+02:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://chriscz.github.io/vegan-mayo.html</loc>
+<lastmod>2017-04-02T15:28:00+02:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -54,7 +68,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://chriscz.github.io/category/cooking.html</loc>
-<lastmod>2017-03-09T20:29:00+01:52</lastmod>
+<lastmod>2017-04-02T15:57:00+01:52</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -62,6 +76,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://chriscz.github.io/category/programming.html</loc>
 <lastmod>2016-07-14T13:42:00+01:52</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://chriscz.github.io/tag/to-die-for.html</loc>
+<lastmod>2017-04-02T15:57:00+01:52</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -88,8 +109,22 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>https://chriscz.github.io/tag/mayo.html</loc>
+<lastmod>2017-04-02T15:28:00+01:52</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>https://chriscz.github.io/tag/recipe.html</loc>
-<lastmod>2017-03-09T20:29:00+01:52</lastmod>
+<lastmod>2017-04-02T15:57:00+01:52</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://chriscz.github.io/tag/vegan.html</loc>
+<lastmod>2017-04-02T15:28:00+01:52</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -102,8 +137,22 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>https://chriscz.github.io/tag/hummus.html</loc>
+<lastmod>2017-04-02T15:57:00+01:52</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>https://chriscz.github.io/tag/molasses.html</loc>
 <lastmod>2017-03-09T20:29:00+01:52</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://chriscz.github.io/tag/chick-pea.html</loc>
+<lastmod>2017-04-02T15:28:00+01:52</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -131,7 +180,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://chriscz.github.io/author/chris.html</loc>
-<lastmod>2017-03-09T20:29:00+01:52</lastmod>
+<lastmod>2017-04-02T15:57:00+01:52</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>

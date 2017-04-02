@@ -1,5 +1,83 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Percipio</title><link href="https://chriscz.github.io/" rel="alternate"></link><link href="https://chriscz.github.io/feeds/all.atom.xml" rel="self"></link><id>https://chriscz.github.io/</id><updated>2017-03-09T20:29:00+02:00</updated><entry><title>Molasses Bread</title><link href="https://chriscz.github.io/molasses-bread.html" rel="alternate"></link><published>2017-03-09T20:29:00+02:00</published><updated>2017-03-09T20:29:00+02:00</updated><author><name>Chris</name></author><id>tag:chriscz.github.io,2017-03-09:/molasses-bread.html</id><summary type="html">&lt;p&gt;Recently I've been trying my hand at baking bread. Here is a slightly adapted recipe taken
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Percipio</title><link href="https://chriscz.github.io/" rel="alternate"></link><link href="https://chriscz.github.io/feeds/all.atom.xml" rel="self"></link><id>https://chriscz.github.io/</id><updated>2017-04-02T15:57:00+02:00</updated><entry><title>Simple Hummus</title><link href="https://chriscz.github.io/simple-hummus.html" rel="alternate"></link><published>2017-04-02T15:57:00+02:00</published><updated>2017-04-02T15:57:00+02:00</updated><author><name>Chris</name></author><id>tag:chriscz.github.io,2017-04-02:/simple-hummus.html</id><summary type="html">&lt;h2&gt;Ingredients&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;A can of chick peas drained and rinsed (410g nett mass / 252g drained)&lt;/li&gt;
+&lt;li&gt;a small clove of garlic (~1.5cm in length), or if you really like garlic a clove
+  of twice that length.&lt;/li&gt;
+&lt;li&gt;2 tbsp olive oil&lt;/li&gt;
+&lt;li&gt;1 tbsp of lemon juice&lt;/li&gt;
+&lt;li&gt;2 - 4 tbsp water&lt;/li&gt;
+&lt;li&gt;1/4 …&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;h2&gt;Ingredients&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;A can of chick peas drained and rinsed (410g nett mass / 252g drained)&lt;/li&gt;
+&lt;li&gt;a small clove of garlic (~1.5cm in length), or if you really like garlic a clove
+  of twice that length.&lt;/li&gt;
+&lt;li&gt;2 tbsp olive oil&lt;/li&gt;
+&lt;li&gt;1 tbsp of lemon juice&lt;/li&gt;
+&lt;li&gt;2 - 4 tbsp water&lt;/li&gt;
+&lt;li&gt;1/4 - 1/2 tsp salt (or more to taste)&lt;/li&gt;
+&lt;li&gt;3/4 - 1 tsp ground cumin&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Preparation&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Add all the ingredients into a blender and blend &lt;em&gt;or&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Add all ingridients to a bowl and blen using a stick blender (and a lot of effort)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Tips&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Keep the chick pea water and make some &lt;a href="vegan_mayonnaise.md"&gt;delicious mayo&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This recipe was modified from http://www.thewholesomedish.com/simple-hummus-without-tahini/&lt;/p&gt;</content><category term="hummus"></category><category term="to die for"></category><category term="recipe"></category></entry><entry><title>Vegan Mayo</title><link href="https://chriscz.github.io/vegan-mayo.html" rel="alternate"></link><published>2017-04-02T15:28:00+02:00</published><updated>2017-04-02T15:28:00+02:00</updated><author><name>Chris</name></author><id>tag:chriscz.github.io,2017-04-02:/vegan-mayo.html</id><summary type="html">&lt;h2&gt;Ingredients&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;4 tbsp chick pea water (brine), this replaces the egg of normal mayo&lt;/li&gt;
+&lt;li&gt;1 tbsp lemon juice&lt;/li&gt;
+&lt;li&gt;1/4 - 1/2 tsp salt (or more to taste)&lt;/li&gt;
+&lt;li&gt;1 - 2 tsp of whole grain mustard&lt;/li&gt;
+&lt;li&gt;250ml of flavour neutral oil: canola, flax seed or a mixture of these with sunflower …&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;h2&gt;Ingredients&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;4 tbsp chick pea water (brine), this replaces the egg of normal mayo&lt;/li&gt;
+&lt;li&gt;1 tbsp lemon juice&lt;/li&gt;
+&lt;li&gt;1/4 - 1/2 tsp salt (or more to taste)&lt;/li&gt;
+&lt;li&gt;1 - 2 tsp of whole grain mustard&lt;/li&gt;
+&lt;li&gt;250ml of flavour neutral oil: canola, flax seed or a mixture of these with sunflower (not olive oil)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Equipment&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;stick blender&lt;/li&gt;
+&lt;li&gt;a mixing bowl/container that is only slightly broader than your stick blender,
+  this prevents splattering and ensures that the oil will cover the 
+  blender blade.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Instructions&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Add all ingredients except the oil to a mixing bowl&lt;/li&gt;
+&lt;li&gt;Have someone slowly add the oil while you blend the mixture
+  without stopping. &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You will find that that the mayo does not take till a critical
+  point is reached: right after the blade is completely submersed
+  in oil.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;You can move the blender stick in an upright stirring fashion, with some 
+  up and down motion. The up-down motion takes precedence when the mixture begins to
+  thicken.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Fixing a Runny Mess&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;If your mayo stays runny, then you may have: added the oil too quickly,
+used stale chick pea water, or made a mistake while blending. All is not lost, 
+however! &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If a batch fails or comes out runny, you can still save it by preparing
+another correctly. As the second batch begins to thicken, slowly pour the failed 
+mixture in while thoroughly blending it.&lt;/p&gt;
+&lt;h2&gt;Tips&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;You can make plain mayo mixture without the mustard seed, as far as I could tell only
+  the chick pea water (and maybe 1/2 tbsp of lemon juice) is really necessary to 
+  get the mayo to thicken.&lt;/li&gt;
+&lt;li&gt;You can use the chickpeas to make a &lt;a href="simple_hummus.md"&gt;yummy hummus&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><category term="mayo"></category><category term="vegan"></category><category term="chick pea"></category><category term="recipe"></category></entry><entry><title>Molasses Bread</title><link href="https://chriscz.github.io/molasses-bread.html" rel="alternate"></link><published>2017-03-09T20:29:00+02:00</published><updated>2017-03-09T20:29:00+02:00</updated><author><name>Chris</name></author><id>tag:chriscz.github.io,2017-03-09:/molasses-bread.html</id><summary type="html">&lt;p&gt;Recently I've been trying my hand at baking bread. Here is a slightly adapted recipe taken
 from &lt;a href="http://dev-crosbys.pantheonsite.io/oatmeal-brown-bread-recipe/"&gt;a post by Bridget Oland&lt;/a&gt;.&lt;/p&gt;
 &lt;h2&gt;Ingredients&lt;/h2&gt;
 &lt;ul&gt;
@@ -25,10 +103,10 @@ from &lt;a href="http://dev-crosbys.pantheonsite.io/oatmeal-brown-bread-recipe/"
 &lt;li&gt;1 cup warm water&lt;/li&gt;
 &lt;li&gt;20g dry yeast powder&lt;/li&gt;
 &lt;li&gt;2 tsp sugar&lt;/li&gt;
-&lt;li&gt;2/3 (220g) cup of molasses (I'd try it with 1/2 (165g) cup next time)&lt;/li&gt;
-&lt;li&gt;6-7 cups of flour&lt;/li&gt;
-&lt;li&gt;3 Unsifted whole wheat flour&lt;/li&gt;
-&lt;li&gt;(3-4) Whole Wheat brown bread flour&lt;/li&gt;
+&lt;li&gt;2/3 cup (220g/167ml) or (150ml if you like it less sweet) of molasses&lt;/li&gt;
+&lt;li&gt;7 cups of flour&lt;/li&gt;
+&lt;li&gt;3 Unsifted (stone ground) whole wheat flour&lt;/li&gt;
+&lt;li&gt;4 Whole Wheat brown bread flour&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;Preparation&lt;/h2&gt;
 &lt;ul&gt;
@@ -55,20 +133,20 @@ from &lt;a href="http://dev-crosbys.pantheonsite.io/oatmeal-brown-bread-recipe/"
 &lt;li&gt;Begin adding your whole wheat flour to the mixture,&lt;/li&gt;
 &lt;li&gt;continue mixing till all of it has been added.&lt;/li&gt;
 &lt;li&gt;Next start adding your brown bread flour.&lt;/li&gt;
-&lt;li&gt;Knead the mixture for 5-10 minutes, it was quite sticky the
-  first time I prepared it; don't be too worried about that.&lt;/li&gt;
+&lt;li&gt;I've found that the dough remained far too sticky to knead, 
+  so instead continue stirring the mixture, moving what is on the
+  outside of the mixture to the centre for 5-10 minutes. &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;Let it sit&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Place the dough into baking trays,&lt;/li&gt;
-&lt;li&gt;put it inside a plastic bag and,&lt;/li&gt;
 &lt;li&gt;let it rise in a warm place for 1:30 - 2:00 hours, or till
 about doubled in size.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;Bake it&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;5 minutes before baking, heat oven to 180C (350F).&lt;/li&gt;
-&lt;li&gt;Bake for around 45 minutes.&lt;/li&gt;
+&lt;li&gt;Bake for around 30-45 minutes.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;Finishing touches&lt;/h2&gt;
 &lt;ul&gt;
@@ -141,7 +219,9 @@ about doubled in size.&lt;/li&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;This is quite an expensive loaf, that could be made much cheaper
-if you buy the molasses in bulk.&lt;/p&gt;</content><category term="baking"></category><category term="bread"></category><category term="molasses"></category><category term="oats"></category><category term="recipe"></category></entry><entry><title>Delicious Chocolate Cake</title><link href="https://chriscz.github.io/delicious-chocolate-cake.html" rel="alternate"></link><published>2017-03-09T20:00:00+02:00</published><updated>2017-03-09T20:00:00+02:00</updated><author><name>Chris</name></author><id>tag:chriscz.github.io,2017-03-09:/delicious-chocolate-cake.html</id><summary type="html">&lt;h2&gt;Ingredients&lt;/h2&gt;
+if you buy the molasses in bulk.&lt;/p&gt;
+&lt;h2&gt;Meal pairing&lt;/h2&gt;
+&lt;p&gt;This bread goes really well with veggie soups.&lt;/p&gt;</content><category term="baking"></category><category term="bread"></category><category term="molasses"></category><category term="oats"></category><category term="recipe"></category></entry><entry><title>Delicious Chocolate Cake</title><link href="https://chriscz.github.io/delicious-chocolate-cake.html" rel="alternate"></link><published>2017-03-09T20:00:00+02:00</published><updated>2017-03-09T20:00:00+02:00</updated><author><name>Chris</name></author><id>tag:chriscz.github.io,2017-03-09:/delicious-chocolate-cake.html</id><summary type="html">&lt;h2&gt;Ingredients&lt;/h2&gt;
 &lt;h3&gt;Dry&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;3 cups self-raising flour&lt;/li&gt;
