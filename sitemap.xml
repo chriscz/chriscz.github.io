@@ -5,29 +5,36 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://chriscz.github.io/</loc>
-<lastmod>2017-04-18T09:22:22-00:00</lastmod>
+<lastmod>2017-05-04T21:30:23-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://chriscz.github.io/archives.html</loc>
-<lastmod>2017-04-18T09:22:22-00:00</lastmod>
+<lastmod>2017-05-04T21:30:23-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://chriscz.github.io/tags.html</loc>
-<lastmod>2017-04-18T09:22:22-00:00</lastmod>
+<lastmod>2017-05-04T21:30:23-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://chriscz.github.io/categories.html</loc>
-<lastmod>2017-04-18T09:22:22-00:00</lastmod>
+<lastmod>2017-05-04T21:30:23-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://chriscz.github.io/not-so-sweet-chocolate-brownies-20.html</loc>
+<lastmod>2017-04-28T12:38:00+02:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -82,7 +89,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://chriscz.github.io/category/cooking.html</loc>
-<lastmod>2017-04-11T18:23:00+01:52</lastmod>
+<lastmod>2017-04-28T12:38:00+01:52</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -110,14 +117,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://chriscz.github.io/tag/baking.html</loc>
-<lastmod>2017-04-11T18:23:00+01:52</lastmod>
+<lastmod>2017-04-28T12:38:00+01:52</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://chriscz.github.io/tag/brownies.html</loc>
-<lastmod>2017-04-11T18:23:00+01:52</lastmod>
+<lastmod>2017-04-28T12:38:00+01:52</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -145,7 +152,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://chriscz.github.io/tag/recipe.html</loc>
-<lastmod>2017-04-11T18:23:00+01:52</lastmod>
+<lastmod>2017-04-28T12:38:00+01:52</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -166,7 +173,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://chriscz.github.io/tag/brownie.html</loc>
-<lastmod>2017-04-11T18:23:00+01:52</lastmod>
+<lastmod>2017-04-28T12:38:00+01:52</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -208,7 +215,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://chriscz.github.io/tag/chocolate.html</loc>
-<lastmod>2017-04-11T18:23:00+01:52</lastmod>
+<lastmod>2017-04-28T12:38:00+01:52</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -222,7 +229,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://chriscz.github.io/author/chris.html</loc>
-<lastmod>2017-04-18T09:10:00+01:52</lastmod>
+<lastmod>2017-04-28T12:38:00+01:52</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
