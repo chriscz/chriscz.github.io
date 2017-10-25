@@ -5,29 +5,50 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://chriscz.github.io/</loc>
-<lastmod>2017-09-11T21:56:09-00:00</lastmod>
+<lastmod>2017-10-25T09:22:26-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://chriscz.github.io/archives.html</loc>
-<lastmod>2017-09-11T21:56:09-00:00</lastmod>
+<lastmod>2017-10-25T09:22:26-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://chriscz.github.io/tags.html</loc>
-<lastmod>2017-09-11T21:56:09-00:00</lastmod>
+<lastmod>2017-10-25T09:22:26-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://chriscz.github.io/categories.html</loc>
-<lastmod>2017-09-11T21:56:09-00:00</lastmod>
+<lastmod>2017-10-25T09:22:26-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://chriscz.github.io/human.html</loc>
+<lastmod>2017-10-25T09:05:00+02:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://chriscz.github.io/wrong-question.html</loc>
+<lastmod>2017-10-25T08:39:00+02:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://chriscz.github.io/morning-routine.html</loc>
+<lastmod>2017-10-04T06:14:00+02:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -172,6 +193,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>https://chriscz.github.io/category/blogging.html</loc>
+<lastmod>2017-10-04T06:14:00+01:52</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>https://chriscz.github.io/category/cooking.html</loc>
 <lastmod>2017-04-28T12:38:00+01:52</lastmod>
 <changefreq>daily</changefreq>
@@ -180,7 +208,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://chriscz.github.io/category/poetry.html</loc>
-<lastmod>2017-09-04T22:00:00+01:52</lastmod>
+<lastmod>2017-10-25T09:05:00+01:52</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -221,8 +249,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://chriscz.github.io/tag/vegan.html</loc>
-<lastmod>2017-04-02T15:28:00+01:52</lastmod>
+<loc>https://chriscz.github.io/tag/routine-depression.html</loc>
+<lastmod>2017-10-04T06:14:00+01:52</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -257,7 +285,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://chriscz.github.io/tag/poetry.html</loc>
-<lastmod>2017-09-04T22:00:00+01:52</lastmod>
+<lastmod>2017-10-25T09:05:00+01:52</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -305,6 +333,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>https://chriscz.github.io/tag/vegan.html</loc>
+<lastmod>2017-04-02T15:28:00+01:52</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>https://chriscz.github.io/tag/cake.html</loc>
 <lastmod>2017-03-09T20:00:00+01:52</lastmod>
 <changefreq>daily</changefreq>
@@ -320,7 +355,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://chriscz.github.io/author/chris.html</loc>
-<lastmod>2017-09-04T22:00:00+01:52</lastmod>
+<lastmod>2017-10-25T09:05:00+01:52</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
