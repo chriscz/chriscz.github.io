@@ -5,29 +5,64 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://chriscz.github.io/</loc>
-<lastmod>2017-11-03T20:36:11-00:00</lastmod>
+<lastmod>2017-11-11T15:02:48-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://chriscz.github.io/archives.html</loc>
-<lastmod>2017-11-03T20:36:11-00:00</lastmod>
+<lastmod>2017-11-11T15:02:48-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://chriscz.github.io/tags.html</loc>
-<lastmod>2017-11-03T20:36:11-00:00</lastmod>
+<lastmod>2017-11-11T15:02:48-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://chriscz.github.io/categories.html</loc>
-<lastmod>2017-11-03T20:36:11-00:00</lastmod>
+<lastmod>2017-11-11T15:02:48-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://chriscz.github.io/rivers.html</loc>
+<lastmod>2017-11-11T14:56:00+02:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://chriscz.github.io/the-sound-of-deep.html</loc>
+<lastmod>2017-11-11T14:52:00+02:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://chriscz.github.io/birth.html</loc>
+<lastmod>2017-11-11T14:45:00+02:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://chriscz.github.io/the-well.html</loc>
+<lastmod>2017-11-11T14:44:00+02:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://chriscz.github.io/guilt.html</loc>
+<lastmod>2017-11-11T14:40:00+02:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -250,7 +285,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://chriscz.github.io/category/poetry.html</loc>
-<lastmod>2017-11-03T20:34:00+01:52</lastmod>
+<lastmod>2017-11-11T14:56:00+01:52</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -264,7 +299,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://chriscz.github.io/category/thoughts.html</loc>
-<lastmod>2017-09-04T21:52:00+01:52</lastmod>
+<lastmod>2017-11-11T14:40:00+01:52</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -327,7 +362,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://chriscz.github.io/tag/poetry.html</loc>
-<lastmod>2017-11-03T20:34:00+01:52</lastmod>
+<lastmod>2017-11-11T14:56:00+01:52</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -389,6 +424,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>https://chriscz.github.io/tag/musing-guilt-mistakes-resent-opportunity.html</loc>
+<lastmod>2017-11-11T14:40:00+01:52</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>https://chriscz.github.io/tag/bread.html</loc>
 <lastmod>2017-03-09T20:29:00+01:52</lastmod>
 <changefreq>daily</changefreq>
@@ -397,7 +439,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://chriscz.github.io/author/chris.html</loc>
-<lastmod>2017-11-03T20:34:00+01:52</lastmod>
+<lastmod>2017-11-11T14:56:00+01:52</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
