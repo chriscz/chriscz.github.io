@@ -5,29 +5,50 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://chriscz.github.io/</loc>
-<lastmod>2017-11-11T15:07:38-00:00</lastmod>
+<lastmod>2017-12-31T23:16:03-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://chriscz.github.io/archives.html</loc>
-<lastmod>2017-11-11T15:07:38-00:00</lastmod>
+<lastmod>2017-12-31T23:16:03-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://chriscz.github.io/tags.html</loc>
-<lastmod>2017-11-11T15:07:38-00:00</lastmod>
+<lastmod>2017-12-31T23:16:03-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://chriscz.github.io/categories.html</loc>
-<lastmod>2017-11-11T15:07:38-00:00</lastmod>
+<lastmod>2017-12-31T23:16:03-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://chriscz.github.io/judgement.html</loc>
+<lastmod>2017-12-29T20:20:00+02:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://chriscz.github.io/bound.html</loc>
+<lastmod>2017-12-29T20:16:00+02:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://chriscz.github.io/war-lost.html</loc>
+<lastmod>2017-12-29T20:11:00+02:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -285,7 +306,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://chriscz.github.io/category/poetry.html</loc>
-<lastmod>2017-11-11T14:56:00+01:52</lastmod>
+<lastmod>2017-12-29T20:20:00+01:52</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -334,7 +355,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://chriscz.github.io/tag/poetry.html</loc>
-<lastmod>2017-11-11T14:56:00+01:52</lastmod>
+<lastmod>2017-12-29T20:20:00+01:52</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -467,7 +488,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://chriscz.github.io/author/chris.html</loc>
-<lastmod>2017-11-11T14:56:00+01:52</lastmod>
+<lastmod>2017-12-29T20:20:00+01:52</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
