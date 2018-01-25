@@ -5,29 +5,36 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://chriscz.github.io/</loc>
-<lastmod>2018-01-07T00:39:45-00:00</lastmod>
+<lastmod>2018-01-25T22:28:38-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://chriscz.github.io/archives.html</loc>
-<lastmod>2018-01-07T00:39:45-00:00</lastmod>
+<lastmod>2018-01-25T22:28:38-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://chriscz.github.io/tags.html</loc>
-<lastmod>2018-01-07T00:39:45-00:00</lastmod>
+<lastmod>2018-01-25T22:28:38-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://chriscz.github.io/categories.html</loc>
-<lastmod>2018-01-07T00:39:45-00:00</lastmod>
+<lastmod>2018-01-25T22:28:38-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://chriscz.github.io/she.html</loc>
+<lastmod>2018-01-25T22:26:00+02:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -306,7 +313,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://chriscz.github.io/category/poetry.html</loc>
-<lastmod>2017-12-29T20:20:00+01:52</lastmod>
+<lastmod>2018-01-25T22:26:00+01:52</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -355,7 +362,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://chriscz.github.io/tag/poetry.html</loc>
-<lastmod>2017-12-29T20:20:00+01:52</lastmod>
+<lastmod>2018-01-25T22:26:00+01:52</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -488,7 +495,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://chriscz.github.io/author/chris.html</loc>
-<lastmod>2017-12-29T20:20:00+01:52</lastmod>
+<lastmod>2018-01-25T22:26:00+01:52</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
