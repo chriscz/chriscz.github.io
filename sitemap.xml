@@ -5,29 +5,64 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://chriscz.github.io/</loc>
-<lastmod>2018-05-26T14:30:42-00:00</lastmod>
+<lastmod>2018-07-28T14:21:48-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://chriscz.github.io/archives.html</loc>
-<lastmod>2018-05-26T14:30:42-00:00</lastmod>
+<lastmod>2018-07-28T14:21:48-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://chriscz.github.io/tags.html</loc>
-<lastmod>2018-05-26T14:30:42-00:00</lastmod>
+<lastmod>2018-07-28T14:21:48-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://chriscz.github.io/categories.html</loc>
-<lastmod>2018-05-26T14:30:42-00:00</lastmod>
+<lastmod>2018-07-28T14:21:48-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://chriscz.github.io/shorts.html</loc>
+<lastmod>2018-07-28T13:05:00+02:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://chriscz.github.io/eyes.html</loc>
+<lastmod>2018-07-28T12:54:00+02:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://chriscz.github.io/mother.html</loc>
+<lastmod>2018-07-28T12:45:00+02:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://chriscz.github.io/untitled_1.html</loc>
+<lastmod>2018-07-28T11:47:00+02:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://chriscz.github.io/woven.html</loc>
+<lastmod>2018-07-26T13:40:00+02:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -341,7 +376,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://chriscz.github.io/category/poetry.html</loc>
-<lastmod>2018-05-26T14:25:00+01:52</lastmod>
+<lastmod>2018-07-28T13:05:00+01:52</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -363,6 +398,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://chriscz.github.io/tag/recipe.html</loc>
 <lastmod>2018-02-16T16:16:00+01:52</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://chriscz.github.io/tag/quotes.html</loc>
+<lastmod>2018-07-28T13:05:00+01:52</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -390,7 +432,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://chriscz.github.io/tag/poetry.html</loc>
-<lastmod>2018-05-26T14:25:00+01:52</lastmod>
+<lastmod>2018-07-28T13:05:00+01:52</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -398,6 +440,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://chriscz.github.io/tag/routine.html</loc>
 <lastmod>2017-10-04T06:14:00+01:52</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://chriscz.github.io/tag/shorts.html</loc>
+<lastmod>2018-07-28T13:05:00+01:52</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -431,8 +480,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://chriscz.github.io/tag/resent.html</loc>
-<lastmod>2017-11-11T14:40:00+01:52</lastmod>
+<loc>https://chriscz.github.io/tag/chocolate.html</loc>
+<lastmod>2018-02-16T16:16:00+01:52</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -459,8 +508,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://chriscz.github.io/tag/chocolate.html</loc>
-<lastmod>2018-02-16T16:16:00+01:52</lastmod>
+<loc>https://chriscz.github.io/tag/resent.html</loc>
+<lastmod>2017-11-11T14:40:00+01:52</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -523,7 +572,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://chriscz.github.io/author/chris.html</loc>
-<lastmod>2018-05-26T14:25:00+01:52</lastmod>
+<lastmod>2018-07-28T13:05:00+01:52</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
